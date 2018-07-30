@@ -1,4 +1,4 @@
-# WATOR - Simulatore Biologico
+# WATOR - Biological simulator
 
 OPERATING SYSTEMS PROJECT
 
